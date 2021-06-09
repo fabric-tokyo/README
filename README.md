@@ -20,8 +20,12 @@ FABRIC TOKYO プロダクト部には「お客さま・工場・自社組織の�
 ## FABRIC TOKYOとは
 
 <a href="https://corp.fabric-tokyo.com/">
-  <img align="left" src="" />
+  <img align="left" width="200" src="https://github.com/lifestyledesign/README/blob/master/images/logo.png?raw=true" />
 </a>
 このプロジェクトは“Fit Your Life”をブランドコンセプトに、体型だけでなく、お客さま一人一人の価値観やライフスタイルにフィットする、オーダーメイドのビジネスウェアを提供するFABRIC TOKYOのエンジニアのドキュメントです。
 
 [@fabric_tokyo](https://twitter.com/fabric_tokyo)をフォローすることでこの事業の詳細を知ることができます。FABRIC TOKYOでのキャリアに興味がある方は、ぜひ[求人情報](https://corp.fabric-tokyo.com/recruit)をご覧ください。
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
