@@ -11,6 +11,14 @@
 - PRは `@lifestyledesign/{team}`, `@lifestyledesign/server` などを使いレビューを依頼する
 - PRの確認項目にチケットの受入要件の項目を満たしている状態でPOレビューを行う
 
+- 障害発生時の対応について
+    - 障害対応で緊急を要するものはOncallとして処理する
+        - Oncallとしての依頼受付、やりとり等はSlackの [#system_oncall](https://lsd-dev.slack.com/archives/C2YRK6ADC) Cannelで行う
+        - 原則としてClickupにチケットが追加されていること
+    - 緊急度が明確でないものに関しては依頼者に確認する
+    - 緊急対応に該当しないものに関しては、Clickupにチケットを追加し、スプリント外のタスクとして対応する
+        - タスクを担当するメンバーはデイリースクラムでアサインされること
+
 ---
 
 ## 以下 Scrum Event に関する項目
