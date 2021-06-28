@@ -11,6 +11,10 @@
 - PRは `@lifestyledesign/{team}`, `@lifestyledesign/server` などを使いレビューを依頼する
 - PRの確認項目にチケットの受入要件の項目を満たしている状態でPOレビューを行う
 
+- 関連部署からの依頼について
+    - 障害は発見者から [#system_oncall](https://lsd-dev.slack.com/archives/C2YRK6ADC) で報告される
+    - oncallの対応はプロダクト部のエンジニアが一週間ごとに交代制で担当する
+
 ---
 
 ## 以下 Scrum Event に関する項目
