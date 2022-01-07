@@ -8,7 +8,7 @@
 
 - 開発者はデイリースクラムに必ず参加する（参加できない場合はSlackにて報告する
 - DMを使わずにチームメンションに質問する
-- PRは `@lifestyledesign/{team}`, `@lifestyledesign/server` などを使いレビューを依頼する
+- PRは `@fabric-tokyo/{team}`, `@fabric-tokyo/server` などを使いレビューを依頼する
 - PRの確認項目にチケットの受入要件の項目を満たしている状態でPOレビューを行う
 - 営業日の14時から16時までの期間、予定が埋まっていない場合は [#bu_product_all](https://lsd-dev.slack.com/archives/C12ETE7DX)🔒でHuddleに参加する
 
